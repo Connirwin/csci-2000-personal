@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 The entire manuscript of this story was written with the E type-bar of the typewriter tied down; thus making it impossible for that letter to be printed. This was done so that none of that vowel might slip in, accidentally; and many did try to do so!
 
@@ -23,6 +24,8 @@ In closing let me say that I trust you may learn to love all the young folks in 
 
 Los Angeles, California February, 1939
 
+=======
+>>>>>>> 83ec7fc1e4e87a27a8f0ecff1acc490e5d9efadc
 I
 
 If Youth, throughout all history, had had a champion to stand up for it; to show a doubting world that a child can think; and, possibly, do it practically; you wouldn't constantly run across folks today who claim that "a child don't know anything." A child's brain starts functioning at birth; and has, amongst its many infant convolutions, thousands of dormant atoms, into which God has put a mystic possibility for noticing an adult's act, and figuring out its purport.
@@ -2016,3 +2019,30 @@ At Post Two sits "Ma;" again in that good old buxom condition, so familiar to al
 What a happy bunch! Following around from Gadsby, sit Bill, Lucy and Addison. But whoa! Who's this Addison? Oh, pardon; I forgot all about it. Lucy's baby; and his first Thanksgiving. Hi, you! Tut-tut! Mustn't grab raisins! Naughty, naughty! On Lucy's right sit Mary, Julius and Norman; following along, I find Nancy, Frank and Baby Lillian, Kathlyn, John, Lady Standish, Priscilla and Hubby Arthur Rankin; Nina Adams,--Oh! A thousand pardons!!--Nina Simpkins! and Old Bill. Say! You wouldn't know Bill! Bright, happy, laughing, singing, and tapping a cup with his spoon; spick-span suit, and that now famous "Broadway carnation." Hulloa, Bill; you old sport!! Glad to find you looking so happy! What? Two whacks at that bird? Why Bill!! On Bill's right sits Pastor Brown, old Doctor Wilkins, Harold, Virginia, and Patricia. Oh, pardon again! Patricia, Virgina's baby; just six months old, today, and valiantly trying to swallow a half-pound candy cow! Following around I find Old Tom Young, Sarah, and Paul. No, I don't find a high-chair by Sarah; but Sarah sits just rocking, rocking, rocking, now-a-days. Following on, again, is Old Tom Donaldson, Clancy Dowd, and--Old Lady Flanagan, with "this dom thing I calls hoosband!" And lastly, Marian and old Pat Ryan from our railway station's trunk room.
 
 So it was just laugh, talk, "stuff," and--
+<<<<<<< HEAD
+=======
+
+   *       *       *       *       *
+Oh, hum! Folks can't stay all night, you know; so, finally, groups and pairs, drifting out, all had happy words for His Honor and Lady Gadsby; and His Honor, a word or two; for you know Gadsby can talk? So it was:--
+
+"Good night, Nina; good luck, Old Bill! Oh! say, Bill; will that cigar blow up? Good night, Virginia; and ta-ta Patricia; and Virginia, you mind your Ma and stay down on solid ground! Aha, Clancy! You old motor-pump fan! No; that's wrong; animal-drawn pump! Good night, Pastor Brown; so glad you put Norman in your choir. And now Old Tom and Sarah! Tom, you look as young as on that day on which you brought Sarah, just a tiny, squalling, fist-waving bunch, to this porch to ask about adoption! And I know Sarah has always had a kind, loving Dad. Paul, you young sprout! As you turn into a daddy, soon now, you'll find that, on marrying, a man and woman start actually living. It's miraculous, Paul, that's just what it is."
+
+And so it was; pairs and groups shaking hands and laughing, until finally a big buxom woman sang out:--
+
+"Whoops!! It was a wow of a grub-lay-out! It was thot! But this dom thing I calls hoosband. Say! You grub-stuffin' varmint! Phwat's that in your hat? A droom-stick, is it? Do you want His Honor to think I don't cook nuthin' for you? Goodnight, all! I'm thot full I'm almost a-bustin'!"
+
+As Lady Standish shook hands, that worthy woman said:--
+
+"John, what you did for Branton Hills should go into our National Library at Washington, in plain sight."
+
+"Sally, Youth's part was paramount in all that work. All I did was to boss;" and Old Doc Wilkins, coming out, nibbling a bunch of raisins, said:--
+
+"Uh-huh; but a boss must know his job!"
+
+"That's all right," said Gadsby; "but it was young hands and young minds that did my work! Don't disqualify Youth for it will fool you, if you do!"
+
+   *       *       *       *       *
+A glorious full moon sails across a sky without a cloud. A crisp night air has folks turning up coat collars and kids hopping up and down for warmth. And that giant star, Sirius, winking slyly, knows that soon, now, that light up in His Honor's room window will go out. Fttt! It is out! So, as Sirius and Luna hold an all-night vigil, I'll say a soft "Good-night" to all our happy bunch, and to John Gadsby--Youth's Champion.
+
+FINIS
+>>>>>>> 83ec7fc1e4e87a27a8f0ecff1acc490e5d9efadc
