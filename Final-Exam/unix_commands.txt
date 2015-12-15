@@ -4,8 +4,9 @@
 # except the two header lines?
 # Enter the relevant Unix command(s) used below.
 
+After examination of the file it was found to contain 132 lines. in order to print all except those first two header lines, the following command may be used.
 
-
+tail -130 classlist.csv
 
 # part (b)
 # How would you construct a pipeline using the command from part (a)
@@ -14,6 +15,7 @@
 # of students in the list.
 
 
+tail -130 classlist.csv | wc -l
 
 
 # part (c)
@@ -24,7 +26,11 @@
 # Enter the relevant Unix command(s) used below as well as the names
 # of the first and last students in the new list.
 
+sort classlist.csv 
 
+with some other commands in there to sort by the second one, idk man.
+
+Aaron A Aaronson probably and Zack Z* something or other.
 
 
 # part (d)
@@ -34,7 +40,7 @@
 # Enter the relevant name(s) and the Unix command(s) below.
 
 
-
+No idea what the commands are, but the name is Diego
 
 # part (f) [BONUS]
 # Construct a Unix pipeline that extracts the last three digits of
